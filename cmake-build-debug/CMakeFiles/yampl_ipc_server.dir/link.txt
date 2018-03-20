@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/yampl_ipc_server.dir/src/main.cpp.o CMakeFiles/yampl_ipc_server.dir/src/ipc_server.cpp.o  -o yampl_ipc_server 

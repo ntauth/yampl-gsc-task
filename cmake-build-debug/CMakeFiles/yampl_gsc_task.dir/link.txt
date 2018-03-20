@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/yampl_gsc_task.dir/main.cpp.o  -o yampl_gsc_task 

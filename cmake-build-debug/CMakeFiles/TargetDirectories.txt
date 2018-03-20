@@ -1,0 +1,3 @@
+/home/ntauthority/Desktop/yampl-gsc-task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ntauthority/Desktop/yampl-gsc-task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ntauthority/Desktop/yampl-gsc-task/cmake-build-debug/CMakeFiles/yampl_ipc_server.dir
