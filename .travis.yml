@@ -1,0 +1,8 @@
+# travis-ci
+language: cpp
+install:
+  - sudo apt-get install libasio-dev
+  - sudo apt-get install ninja-build
+script:
+  - cmake -G Ninja
+  - ninja
