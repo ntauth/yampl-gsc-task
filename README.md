@@ -1,6 +1,6 @@
 Yampl - C++14/libasio Client/Server IPC
 =======================================
-[![Build Status](https://travis-ci.org/ntauth/yampl-gsc-task.svg?branch=master)](https://travis-ci.org/ntauth/yampl-gsc-task)
+[![Build Status](https://travis-ci.org/ntauth/yampl-gsc-task.svg?branch=master)](https://travis-ci.org/ntauth/yampl-gsc-task)  
 Brief
 -----
 Yampl - an inter-process communication library for ATLAS - Client/Server IPC (C++14/libasio) task assigned by Vakho Tsulaia.
